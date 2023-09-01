@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there coloring fans! If you want to spend some time creating a fun giraffe masterpiece, you&#39;ve come to the right place. We&#39;ve got lots of different giraffe coloring page options for you to choose from. Our tall and spunky giraffe pictures will keep you and your little one busy for hours. What are you waiting for, grab your crayons and get coloring!">
+  <meta name="keywords" content="giraffe colouring page, giraffe coloring pages, giraffe colouring sheets, giraffe drawings, giraffe outline, long neck animal coloring, tall animal printables, animal colour printable, savanna coloring pages, savanna animal drawings, giraffe printables, spotty animal drawings">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Tall Giraffe Coloring Page for Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Tall Giraffe Coloring Page for Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there, hope some giraffe coloring fun sounds great right about now. Giraffes are such cool animals, don&#39;t you think? With their long necks and spots, giraffes really stand out in the animal kingdom. Let&#39;s bring a giraffe friend to life on our coloring pages! You&#39;ve got a bunch of different giraffe coloring options here, so you can find the perfect pattern to suit your style. Do you prefer more intricate and detail-oriented designs or something simpler with large areas of color? There are options to satisfy both kinds of colorers! Some of these giraffes look like they just walked out of a picture book for kids, with big cute eyes and playful poses. Others have detailed patterns all over their fur to showcase your coloring and shading skills. Whichever giraffe friend calls to you, get out your favorite coloring pencils or crayons and bring it to life on the page. As you fill in the spots, neck, and legs with different colors, your giraffe starts to come alive right before your eyes. What color will its eyes be? Will its spots be big and bold or small and subtle? The choices are yours - this is your giraffe buddy! Focus on the process and lose yourself in the simple joy of coloring. Your giraffe page will soon become a work of art, created by you to brighten up your room or make a gift for someone special. So what are you waiting for? Pick your favorite giraffe, grab your colors, and let&#39;s get coloring!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_1.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_1.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_2.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_2.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_3.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_3.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_4.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_4.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_5.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_5.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_6.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_6.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_7.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_7.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_8.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_8.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_9.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_9.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_10.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_10.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_11.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_11.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_12.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_12.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/giraffe colouring page_13.jpg" target="_blank">
+                <img src="/images/giraffe colouring page_13.jpg" alt="giraffe colouring page" title="giraffe colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

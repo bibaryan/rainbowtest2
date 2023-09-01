@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Want to color classic city scenes? We&#39;ve got loads of city coloring fun with pages just right for kids� images of taxis, busy streets, tall skyscrapers, and city parks for you to bring to life in color. Come check out our awesome collection of city coloring goodness!">
+  <meta name="keywords" content="coloringpages, printablecoloringpages, coloring pages, city coloring pages, urban coloring pages, city colouring pages, urban colouring pages, color coloring pages, colour coloring pages, coloring page, coloring pages for kids, coloring sheets, coloring activity, coloring book, kids coloring pages, children coloring pages">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Imagine Your City with Fun Coloring Pages for Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Imagine Your City with Fun Coloring Pages for Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Many kids love coloring in different city scenes - tall skyscrapers, busy street corners, transportation hubs filled with hustle and bustle. The city coloring pages on this site will transport your little artist to an urban jungle filled with adventure. There are more buildings awaiting your child&#39;s crayons than you can imagine! High-rises in all shapes and sizes climb to the clouds, waiting for vibrant strokes of color to bring them to life. Look closely and you&#39;ll spot tiny people bustling about the busiest downtown corner, sidewalk cafes ready for your kiddo to decide the awnings&#39; hue. Your artist can fill construction zones with hard hats of all rainbow colors and imagine the city streets rushing by from the driver&#39;s seat of double-decker buses and taxi cabs. Crosswalks just begging to be painted and empty cement mixers ready for a splash of color will keep their creative juices flowing. Got a little kid who dreams of wandering through city parks filled with kaleidoscopes of color? These coloring pages give their wild imagination free reign. They can decide if the fountains will spray multi-colored water high into the air or if the bushes will be every shade of the rainbow. So give those crayons a twirl and whisk your little artist away to the big city, letting their coloring fill each scene with the colors and details only their imagination can create! The urban landscape awaits - which building will they color first?</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_1.jpg" target="_blank">
+                <img src="/images/city coloring pages_1.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_2.jpg" target="_blank">
+                <img src="/images/city coloring pages_2.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_3.jpg" target="_blank">
+                <img src="/images/city coloring pages_3.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_4.jpg" target="_blank">
+                <img src="/images/city coloring pages_4.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_5.jpg" target="_blank">
+                <img src="/images/city coloring pages_5.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_6.jpg" target="_blank">
+                <img src="/images/city coloring pages_6.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_7.jpg" target="_blank">
+                <img src="/images/city coloring pages_7.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_8.jpg" target="_blank">
+                <img src="/images/city coloring pages_8.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_9.jpg" target="_blank">
+                <img src="/images/city coloring pages_9.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_10.jpg" target="_blank">
+                <img src="/images/city coloring pages_10.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_11.jpg" target="_blank">
+                <img src="/images/city coloring pages_11.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_12.jpg" target="_blank">
+                <img src="/images/city coloring pages_12.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_13.jpg" target="_blank">
+                <img src="/images/city coloring pages_13.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_14.jpg" target="_blank">
+                <img src="/images/city coloring pages_14.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_15.jpg" target="_blank">
+                <img src="/images/city coloring pages_15.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/city coloring pages_16.jpg" target="_blank">
+                <img src="/images/city coloring pages_16.jpg" alt="city coloring pages" title="city coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

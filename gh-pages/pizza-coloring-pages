@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Kiddos love pizza right? Are you looking for fun pizza-themed coloring fun for your little chef? Our collection of free printable pizza coloring pages features pizza slices, pepperoni pies, and chef hats galore - everything your budding pizza maker needs for culinary delight!">
+  <meta name="keywords" content="pizza, coloring, pages, tomato, dough, cheese, pepperoni, mushrooms, crust, sauce, topping, italian, fun, food">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Yummy Pizza Coloring Pages</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Yummy Pizza Coloring Pages</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">You want pizza coloring pages for the kiddos? I gotcha covered. These pizza pictures are out of this world fun for your little ones. Here&#39;s what I mean. Who doesn&#39;t love pizza, am I right? And what&#39;s cooler than decorating pizzas in any style you can imagine? Your kids can go wild adding mushrooms, pepperoni, olives - anything their creative little hearts desire. They can make 6 foot pizzas, Hawaiian pizza, deep dish Chicago style, thin crust, stuffed crust - the options are endless! The pizzas can be as big or small, simple or crazy complicated as they want. The pizza coloring pages have your kids thinking outside the crust. With its circles and triangles, a pizza template makes coloring and staying in the lines simple and achievable for little artists just starting out. But before long, those simple circles and triangles morph into colorful culinary masterpieces! Your kids don&#39;t just see a pizza, they see an exciting blank canvas just waiting for their special touch. So give your kids&#39; creativity a chance to rise and your pizzas a chance to shine! Download some fun and free pizza coloring pages for them today. You&#39;ll bring smiles to their faces and give their imagination a chance to sizzle when they decorate their very own stack of imaginary pizzas. Who knows, they may even inspire you to order a pizza of your own to celebrate their colorful creations!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_1.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_1.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_2.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_2.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_3.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_3.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_4.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_4.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_5.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_5.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_6.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_6.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_7.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_7.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_8.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_8.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_9.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_9.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_10.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_10.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/pizza coloring pages_11.jpg" target="_blank">
+                <img src="/images/pizza coloring pages_11.jpg" alt="pizza coloring pages" title="pizza coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

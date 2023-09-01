@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there kids and koala lovers! Are you looking for the cutest koala colouring pages around? You&#39;ve come to the right place. We&#39;ve got loads of free printable koala colouring pages featuring everybody&#39;s favourite hug-loving eucalyptus eaters in all sorts of fun poses and activities for you to bring to life with your best colours. Download, print and get colouring those adorable koala faces today!">
+  <meta name="keywords" content="koala colouring page, koala coloring page, koala colouring sheets, koala coloring sheets, koala colour pages, free koala colouring pages, koala colouring printable, koala coloring printable, koala to colour, koala to color, koala colour, koala colouring, koala colouring book, koala coloring book">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Cute Koala Bear Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Cute Koala Bear Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there colouring fan! Got your crayons, pencils or markers ready to add some cute and quirky koala colour to your day? These koala colouring pages will have you feeling chilled out and carefree in no time. You&#39;ll find all kinds of fun koala designs on this page for all ages from tiny tots up to 92-year old grammy and grandpa. There&#39;s multiple tricky koalas chilling in their eucalyptus trees, koala families hanging out together and single koalas ready to make some new friends through your creative colouring. Want a simple koala to get started? Take your pick of lazy koalas lounging and snoozing on tree branches. Just choose your fave earth tones for that cute little ball of fur and you&#39;ve got an instant chill pill. Feel like something a bit more challenging? Our spunky koalas climbing, swinging and doing handstands on the trees need lots of funky and bold colours to show off their koala personalities. Think purples, oranges, blues and greens to bring these cheeky koalas to life! Got an inner artist waiting to unleash their creative juice? Then grab those fancy frou frou markers and create a colourful koala kingdom in the forest with colour blocked koalas, rainbow eucalyptus leaves and wildflower meadows surrounding the trees. Who knows, you may find your muse through these joyful little creatures. So what are you waiting for my colourful friend? Dive in, get scribbling and let these cute koala colouring pages transport you to a happier, more carefree place. You deserve some koala Zen time, right? Have fun!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_1.jpg" target="_blank">
+                <img src="/images/koala colouring page_1.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_2.jpg" target="_blank">
+                <img src="/images/koala colouring page_2.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_3.jpg" target="_blank">
+                <img src="/images/koala colouring page_3.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_4.jpg" target="_blank">
+                <img src="/images/koala colouring page_4.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_5.jpg" target="_blank">
+                <img src="/images/koala colouring page_5.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_6.jpg" target="_blank">
+                <img src="/images/koala colouring page_6.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_7.jpg" target="_blank">
+                <img src="/images/koala colouring page_7.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_8.jpg" target="_blank">
+                <img src="/images/koala colouring page_8.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_9.jpg" target="_blank">
+                <img src="/images/koala colouring page_9.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_10.jpg" target="_blank">
+                <img src="/images/koala colouring page_10.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_11.jpg" target="_blank">
+                <img src="/images/koala colouring page_11.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_12.jpg" target="_blank">
+                <img src="/images/koala colouring page_12.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_13.jpg" target="_blank">
+                <img src="/images/koala colouring page_13.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_14.jpg" target="_blank">
+                <img src="/images/koala colouring page_14.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/koala colouring page_15.jpg" target="_blank">
+                <img src="/images/koala colouring page_15.jpg" alt="koala colouring page" title="koala colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

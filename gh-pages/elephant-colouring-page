@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Love chunky grey mammals? This page has lots of jumbo-sized elephant pictures perfect for your creative kiddo to colour in. The grey behemoths will come to life under those crayons! Enough choice here to keep even an elephant-obsessed kid busy for a while.">
+  <meta name="keywords" content="elephant colouring page, elephant colouring pages, elephant colour pages, free elephant colouring page, free elephant colouring pages, kids elephant colouring page, kids elephant colouring pages, print elephant colouring page, print elephant colouring pages, colour elephant colouring page, colouring page elephant, colour page elephant, elephant colour pages for kids, elephant colouring worksheet, greyscale elephant colouring page">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Playful Elephant Coloring Page for Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Playful Elephant Coloring Page for Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fans! If you&#39;re looking for a fun animal themed coloring page, I&#39;ve got an awesome elephant page for you. Elephants are such cool animals, with their huge size, long trunks, and unique greyish skin. I think kids find them fascinating. My elephant coloring page has a nice simple outline of a giant elephant just walking along. The clean lines make it easy to color inside the lines for little kids. But the large size of the elephant gives lots of room for older kids to experiment with patterns and shading techniques. What color will you make this elephant? Will he be a typical grey or do you want to make him blue, or green, or rainbow colored? How about decorating his huge ears with different patterns? And you can pick different colors for his eyes and toenails to add some fun details. The best part is that big elephant trunk! Long, flexible trunks are one of the things that make elephants so distinctive. Kids love coloring that elephant trunk different colors and adding extra lines to make it look like it&#39;s moving and swinging through the air. Will you make your elephant&#39;s trunk red? Maybe with yellow polka dots? The options are endless! So what are you waiting for? Print out this free elephant coloring page and get out your crayons, colored pencils, or markers. Bring the huge but gentle giants of the African savanna into your own living room and let your imagination run wild decorating this grey behemoth however you&#39;d like. You&#39;ll have an awesome artwork to hang on your fridge in no time. Have fun! How&#39;s that? I tried to keep it conversational, using analogies to explain the page and asking some rhetorical questions to engage the reader. Let me know if you&#39;d like me to modify or expand the description at all.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_1.jpg" target="_blank">
+                <img src="/images/elephant colouring page_1.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_2.jpg" target="_blank">
+                <img src="/images/elephant colouring page_2.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_3.jpg" target="_blank">
+                <img src="/images/elephant colouring page_3.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_4.jpg" target="_blank">
+                <img src="/images/elephant colouring page_4.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_5.jpg" target="_blank">
+                <img src="/images/elephant colouring page_5.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_6.jpg" target="_blank">
+                <img src="/images/elephant colouring page_6.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_7.jpg" target="_blank">
+                <img src="/images/elephant colouring page_7.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_8.jpg" target="_blank">
+                <img src="/images/elephant colouring page_8.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_9.jpg" target="_blank">
+                <img src="/images/elephant colouring page_9.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_10.jpg" target="_blank">
+                <img src="/images/elephant colouring page_10.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/elephant colouring page_11.jpg" target="_blank">
+                <img src="/images/elephant colouring page_11.jpg" alt="elephant colouring page" title="elephant colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

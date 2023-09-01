@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Let your little one roar with our cool lion coloring pages! Over a dozen awesome lion drawings ready for your kiddo to pounce on and bring to furry life in their favorite colors. What are you waiting for, aren&#39;t they just itching to color a jungle king today?">
+  <meta name="keywords" content="lion, coloring pages, animals, colouring sheets, big cat printables, cub, king of beasts, colour, savannah, mane">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Fierce Lion Coloring Pages</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Fierce Lion Coloring Pages</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fans! Looking for a majestic and fearsome creature to transform with your crayons and colors? Well look no further than lion coloring pages. Lions are the kings of the animal kingdom for a reason - they&#39;re huge, mane-rocking predators that command attention. Who doesn&#39;t love those piercing eyes, that flashy chest fur, and those razor sharp claws? When you color a lion coloring page, you get to bring these massive cats to life in your own way. Have you ever seen a real-life lion up close? I haven&#39;t! But coloring pages can bring a little bit of that wildness and mystery into our living rooms. You get to decide if you want your lion to have an orange-gold coat or a more reddish-colored fur. Do you want to shade the mane so it almost looks like a flame burning? You&#39;re the artist, so you get to bring out whatever you imagine a lion to truly look like! Want to color a whole pride of lions together? How about a lion cub with its huge paws and cute little tuft of a mane? The possibilities with lion coloring pagesare endless. You can make your lions roar with color! So grab those crayons, markers, and colored pencils and get ready to transform these majestic monarchs of the savanna into colorful carnations. Let your creative vision run wild and remember to share your finished work with me! I can&#39;t wait to see the kingly lions you create.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_1.jpg" target="_blank">
+                <img src="/images/lion coloring pages_1.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_2.jpg" target="_blank">
+                <img src="/images/lion coloring pages_2.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_3.jpg" target="_blank">
+                <img src="/images/lion coloring pages_3.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_4.jpg" target="_blank">
+                <img src="/images/lion coloring pages_4.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_5.jpg" target="_blank">
+                <img src="/images/lion coloring pages_5.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_6.jpg" target="_blank">
+                <img src="/images/lion coloring pages_6.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_7.jpg" target="_blank">
+                <img src="/images/lion coloring pages_7.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_8.jpg" target="_blank">
+                <img src="/images/lion coloring pages_8.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_9.jpg" target="_blank">
+                <img src="/images/lion coloring pages_9.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_10.jpg" target="_blank">
+                <img src="/images/lion coloring pages_10.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_11.jpg" target="_blank">
+                <img src="/images/lion coloring pages_11.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_12.jpg" target="_blank">
+                <img src="/images/lion coloring pages_12.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_13.jpg" target="_blank">
+                <img src="/images/lion coloring pages_13.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_14.jpg" target="_blank">
+                <img src="/images/lion coloring pages_14.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/lion coloring pages_15.jpg" target="_blank">
+                <img src="/images/lion coloring pages_15.jpg" alt="lion coloring pages" title="lion coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

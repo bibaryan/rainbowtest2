@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Kid, need a cool house colouring page for your next drawing session? We&#39;ve got loads of unique house designs with plenty of space to add your favourite colours and creative touches. How about a castle house? A treehouse? A beach shack? We&#39;ve got &#39;em all just waiting for you fill with fun!">
+  <meta name="keywords" content="house, drawing, colouring, page, children, sketch, home, pencil, free, print, pdf, worksheet, outline">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Fun House Drawing Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Fun House Drawing Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there! Want some simple house coloring pages for your kid? I&#39;ve got a bunch right here with fun images of different types of houses to color. Kids love coloring pictures of houses - whether it&#39;s a large mansion, a cozy cottage or their dream home. These drawings provide an open creative space for them to use their imagination and color things their own way. I&#39;ve included some fairly simple house outlines that are just the right level for little ones to get started with the basics of coloring between the lines. What kind of house does your kid dream about living in? A tall skyscraper in the city with amazing views? An old farmhouse where they can play in the fields all day? A magical castle in a faraway land? Let their imagination run wild as they fill these house drawings with their favorite bright colors. They can make each house as unique as they want - or create a whole neighborhood filled with different house styles. The process of coloring itself is a fun way for kids to express themselves creatively while developing important skills like hand-eye coordination, concentration and patience. How about giving one of these &#39;house drawing colouring pages&#39; a try with your little one? It&#39;ll likely bring a smile to their face as they create their own colorfully customized version of a home sweet home. Hope these informal &#39;house drawing colouring pages&#39; give your kid some joy and spark their imagination! Let me know if you have any other questions.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_1.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_1.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_2.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_2.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_3.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_3.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_4.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_4.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_5.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_5.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_6.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_6.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_7.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_7.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_8.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_8.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_9.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_9.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_10.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_10.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_11.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_11.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_12.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_12.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/house drawing colouring page_13.jpg" target="_blank">
+                <img src="/images/house drawing colouring page_13.jpg" alt="house drawing colouring page" title="house drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there potential colorer! Looking for a train coloring page to keep your kids or yourself busy? You&#39;ve come to the right place. We&#39;ve got lots of train coloring images for all ages, featuring all types of trains from steam engines to bullet trains. The pages are simple, fun, and thoroughly colorable. Grab your crayons and pick a train - we&#39;ll have you coloring on the rails in no time.">
+  <meta name="keywords" content="train coloring page, trains to color, railway coloring pages, coloring pages trains kids, activity coloring pages trains, locomotive coloring pages, train coloring pages for toddlers, train coloring pages printable free, steam train coloring pages, chuggington coloring pages free">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>All Aboard! Fun Train Coloring Page For Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">All Aboard! Fun Train Coloring Page For Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Train coloring pages - now these are fun! All aboard the coloring train, kids. Choo choo! These pages are perfect for budding engineers and little locomotive lovers. You get to pick all the bright colors for the train cars, engines, tracks and scenery. What color will you make the train - red, blue or bright yellow? Will the passengers be waving out the windows? The choices are endless. Will you color your train speeding through the countryside during the day or chugging through a snowy night? How about a steam train from the olden days or a modern bullet train? The options are up to you, kid. Let your imagination run wild! You can decide what country the train is traveling through with deserts, mountains and grassy plains galore. The great thing about train coloring? They&#39;re simple - not too many details just big shapes that are easy to fill in. So even little kids just learning their colors can join the fun. Just grab your crayons, pencils or markers and go for it! Before you know it, you&#39;ll have your very own colorful train ready to ride the rails. Who knows, all this creative train coloring may even spark a dream of becoming an engineer one day. The journey starts here, on the page. Have fun! I hope your train goes places you&#39;ve never been.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_1.jpg" target="_blank">
+                <img src="/images/train coloring page_1.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_2.jpg" target="_blank">
+                <img src="/images/train coloring page_2.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_3.jpg" target="_blank">
+                <img src="/images/train coloring page_3.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_4.jpg" target="_blank">
+                <img src="/images/train coloring page_4.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_5.jpg" target="_blank">
+                <img src="/images/train coloring page_5.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_6.jpg" target="_blank">
+                <img src="/images/train coloring page_6.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_7.jpg" target="_blank">
+                <img src="/images/train coloring page_7.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_8.jpg" target="_blank">
+                <img src="/images/train coloring page_8.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_9.jpg" target="_blank">
+                <img src="/images/train coloring page_9.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_10.jpg" target="_blank">
+                <img src="/images/train coloring page_10.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_11.jpg" target="_blank">
+                <img src="/images/train coloring page_11.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_12.jpg" target="_blank">
+                <img src="/images/train coloring page_12.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_13.jpg" target="_blank">
+                <img src="/images/train coloring page_13.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_14.jpg" target="_blank">
+                <img src="/images/train coloring page_14.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_15.jpg" target="_blank">
+                <img src="/images/train coloring page_15.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/train coloring page_16.jpg" target="_blank">
+                <img src="/images/train coloring page_16.jpg" alt="train coloring page" title="train coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Kid, need a fun way to learn world geography? These free downloadable world map coloring pages give your child an easy, hands-on way to discover the names and locations of countries while sharpening those coloring skills! Need something new to color today? Download one now.">
+  <meta name="keywords" content="world map coloring page, coloring pages world map, coloring world map for kids, free world map coloring pages printable, coloring world map page printable free, map of world coloring page">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Discover New Places with this World Map Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Discover New Places with this World Map Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fans! Do you love exploring the world through art? Then a world map coloring page is for you. These simple yet fascinating illustrations provide a fun and creative way for kids and adults alike to learn geography. Basic images of the globe show the different continents and oceans while more detailed ones even include individual countries and landmarks. Color the Americas blue, Africa green and Australia orange- the choice is yours! You decide how the world should be colored. As you fill in each space with your favorite pens and pencils, your imagination can roam the planet. You&#39;re virtually travelling the world from your own home simply by connecting color to place. Who knew coloring could be so wonderfully educational? These pages are like cardboard passports inviting you to a global adventure guided by your artistic vision. The real world begins to make sense as you observe its patterns and shapes on the page before bringing those spaces alive with rich color. So grab your crayons, pick your favorite colors and prepare for an artistic journey around the world. Your new world map will be like a colorful reminding of all the amazing places just waiting to be discovered. The whole planet is at your fingertips, ready to be filled with color. What are you waiting for, start exploring!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/world map coloring page_1.jpg" target="_blank">
+                <img src="/images/world map coloring page_1.jpg" alt="world map coloring page" title="world map coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/world map coloring page_2.jpg" target="_blank">
+                <img src="/images/world map coloring page_2.jpg" alt="world map coloring page" title="world map coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/world map coloring page_3.jpg" target="_blank">
+                <img src="/images/world map coloring page_3.jpg" alt="world map coloring page" title="world map coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/world map coloring page_4.jpg" target="_blank">
+                <img src="/images/world map coloring page_4.jpg" alt="world map coloring page" title="world map coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/world map coloring page_5.jpg" target="_blank">
+                <img src="/images/world map coloring page_5.jpg" alt="world map coloring page" title="world map coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/world map coloring page_6.jpg" target="_blank">
+                <img src="/images/world map coloring page_6.jpg" alt="world map coloring page" title="world map coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/world map coloring page_7.jpg" target="_blank">
+                <img src="/images/world map coloring page_7.jpg" alt="world map coloring page" title="world map coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/world map coloring page_8.jpg" target="_blank">
+                <img src="/images/world map coloring page_8.jpg" alt="world map coloring page" title="world map coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

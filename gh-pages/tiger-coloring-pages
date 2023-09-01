@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Need cool tiger pictures to color? You&#39;re in the right place friend, we&#39;ve got tons of awesome tiger coloring pages for kids of all ages to choose from. Start roaring and coloring a jungle of fantastic tigers!">
+  <meta name="keywords" content="tiger, coloring pages, animal, cat, big cat, wild tiger, Bengals, coloring, kids, colouring sheets, free print, online">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Roar! Lovable Tiger Coloring Pages For Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Roar! Lovable Tiger Coloring Pages For Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Alright kids, are you ready to color some awesome tiger pictures? Tiger coloring pages are so much fun and they&#39;ll really get your imaginations going. You can give your tiger any colors you want - make him bright orange with black stripes, or go crazy and make him purple with pink spots! The choices are up to you. Tigers are so cool. They&#39;re big, powerful predators that stalk through the jungle. But they&#39;re also beautiful with their stripes and their fur. When you color tiger pictures, you can really imagine what it&#39;s like to be a tiger on the prowl. You can think about sneaking up on prey, pouncing on it, and grabbing it with your huge claws. Doesn&#39;t that sound like an exciting adventure? There are so many possibilities with tiger coloring pages. You can color outlines of whole tigers, just tiger heads, or even little baby tiggers. You can focus on the details like the tiger&#39;s sharp teeth or piercing eyes. Then you can show your colored pages to your family and friends. They&#39;ll be amazed at your tiger masterpieces and your wild imaginations. Coloring pages are like windows into your creative spirit! So what are you waiting for? Grab your favorite colors, find a comfortable spot, and start turning those plain old tiger drawings into bright, beautiful works of art that come alive in your mind&#39;s eye. Make each stripe a different hue and highlight different parts of the fur. Your tigers will be so lifelike, they&#39;ll almost jump right off the page! So go ahead, let your imagination run wild and see what amazing tiger creations you can come up with. Happy coloring!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_1.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_1.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_2.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_2.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_3.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_3.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_4.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_4.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_5.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_5.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_6.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_6.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_7.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_7.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_8.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_8.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_9.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_9.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_10.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_10.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_11.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_11.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_12.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_12.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_13.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_13.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_14.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_14.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_15.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_15.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tiger coloring pages_16.jpg" target="_blank">
+                <img src="/images/tiger coloring pages_16.jpg" alt="tiger coloring pages" title="tiger coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

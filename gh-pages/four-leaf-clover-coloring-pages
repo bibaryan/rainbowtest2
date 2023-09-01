@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there coloring fans! Ever since I was a kid, I loved four leaf clover images with thick black lines just waiting to be filled in with crayon and marker. These adorable shamrock designs will bring good luck and fun times while your little one practices staying in the lines. What are you waiting for? Download a few four leaf clover coloring pages and make some four leaf clover magic today!">
+  <meta name="keywords" content="clover coloring pages, four leaf clover coloring, luck clover coloring, coloring sheets leprechaun, clover leaf coloring pages, four leaf plant color, image clover pages, printable clover pages, free clover pictures, draw clover four leaves">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Lucky Four Leaf Clover Coloring Pages</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Lucky Four Leaf Clover Coloring Pages</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring page fan! You lookin&#39; for some fun four leaf clover designs to bring some Irish cheer into your drawings? You&#39;ve come to the right place my friend. We&#39;ve got a whole rainbow of shamrockin&#39; four leaf clover coloring pages to tickle your creative fancy. From simple to intricate, realistic to whimsical, these clover pages will have you feelin&#39; the luck o&#39; the Irish as your crayons and markers come alive with color. Don your green top hat and grab your colorin&#39; tools - we&#39;ve got easy four leaf designs perfect for younguns just learnin&#39; to stay in the lines. These are simple shapes with big spaces between each leaf so little artists can fill &#39;em in however they please. Feel like showin&#39; off your color mastery? Dive into our more complex clover pages with intertwining leaves, shadowing details and festive decorations like butterflies, ladybugs and beads. These pages will put your shading and blending abilities to the test as you transform plain black and white lines into dimensional masterpieces. Want to get creative? Use your imagination to mix and match clover colors; make &#39;em neon bright or pastel soft. Explore new color combinations and designs that express your personal style. There are no rules in coloring - just fun! So what are you waiting for friend? Pull up a seat, grab your lucky charms and get coloring! May your pots o&#39; gold inspire new ideas and adventures for pages to come. And remember, even if you stay inside the lines or make a mess of things, just keep on coloring - that&#39;s the luck o&#39; the fun.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/four leaf clover coloring pages_1.jpg" target="_blank">
+                <img src="/images/four leaf clover coloring pages_1.jpg" alt="four leaf clover coloring pages" title="four leaf clover coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/four leaf clover coloring pages_2.jpg" target="_blank">
+                <img src="/images/four leaf clover coloring pages_2.jpg" alt="four leaf clover coloring pages" title="four leaf clover coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/four leaf clover coloring pages_3.jpg" target="_blank">
+                <img src="/images/four leaf clover coloring pages_3.jpg" alt="four leaf clover coloring pages" title="four leaf clover coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/four leaf clover coloring pages_4.jpg" target="_blank">
+                <img src="/images/four leaf clover coloring pages_4.jpg" alt="four leaf clover coloring pages" title="four leaf clover coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/four leaf clover coloring pages_5.jpg" target="_blank">
+                <img src="/images/four leaf clover coloring pages_5.jpg" alt="four leaf clover coloring pages" title="four leaf clover coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

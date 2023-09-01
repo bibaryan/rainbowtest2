@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there! Looking for a fun Santa Claus coloring page for your little one? You&#39;ve come to the right place. We&#39;ve got tons of free Santa coloring fun with jolly designs featuring Santa and his reindeer friends, Christmas toys and treats for your child to bring to life with their crayons, markers or colored pencils. Go ahead, print one out and get creative!">
+  <meta name="keywords" content="santa claus colouring page, santa colouring pages free, santa claus coloring pages, free colouring pages santa, merry christmas coloring pages, printable santa claus coloring pages, christmas colouring pages for kids, free christmas colouring pages printable, santa claus colour print out, festive santa colouring">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Jolly Santa Claus Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Jolly Santa Claus Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there! Santa Claus coloring pages are a fun way for your little one to celebrate the Christmas spirit. The image of Santa in his red coat with white trim and black belt just screams Christmas joy, doesn&#39;t it?! Letting your child color the big guy in all the different hues they desire can unleash their imagination. You and I both remember coloring our own Santa pages as kids, and I bet a part of us wished we could color outside the lines and make a blue or polka dot Santa! Well now you can give that gift to your child through one of these fun coloring downloads. They can go wild adding different colored pom poms, buttons, and hats to old Saint Nick. Why stick to only red and white when purple reigndeer and a green sled might be even more exciting? The best part is seeing the smile on your child&#39;s face as they bring their customized Santa to life. It&#39;ll spur ideas for what special gifts they hope to find under the tree this year. Don&#39;t you remember asking your parents for something you saw in a colorful advertisement? Those vibrant images stayed with us for years! So let your little one give Santa any makeover they desire; their imagination is the limit. Who knows, their creative version of Mr. Claus may become a new Christmas tradition in your home for years to come. So grab some crayons, print out a page, and get ready for some family fun that celebrates the joy and wonder of Christmas. How&#39;s that? I tried to make it short, conversational and a bit playful while still providing useful information about why Santa Claus coloring pages are fun for kids. Let me know if you&#39;d like me to modify or expand the description at all!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_1.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_1.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_2.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_2.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_3.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_3.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_4.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_4.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_5.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_5.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_6.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_6.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_7.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_7.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_8.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_8.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_9.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_9.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_10.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_10.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/santa claus colouring page_11.jpg" target="_blank">
+                <img src="/images/santa claus colouring page_11.jpg" alt="santa claus colouring page" title="santa claus colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

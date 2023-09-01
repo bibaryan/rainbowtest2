@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there coloring fans! Are you obsessed with magical mermaids and all things under the sea? Then you&#39;ll love flipping through these fin-tastic mermaid coloring pages! Gorgeous girl mermaids with long flowing hair, shiney tails and seashell bikinis are waiting for you to bring them to life with your favorite colors. What are you waiting for? Dip your crayons in the ocean blue and join the fun!">
+  <meta name="keywords" content="mermaid, mermaid coloring, mermaid color, mermaid colouring, mermaid colour, mermaid adult coloring, adult mermaid coloring, mermaid page, mermaid printable, mermaid printable coloring, printable mermaid coloring, mermaid girls, mermaid for girls, mermaid girl">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Magical Mermaid Coloring Page </title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Magical Mermaid Coloring Page </h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there little artist! Grab your crayons and markers because a fantastic mermaid coloring page awaits you. What kid doesn&#39;t love magical mystical mermaids swimming in sparkling blue seas? I know I did at your age. Mermaids have such gorgeous flowing hair that changes colors from green to purple to orange as they dive down underwater. The shiny scales on their slender tail glitter like precious jewels in the dappled sun. Do you wonder what adventures they have darting between the coral reefs and seaweed gardens? What sea creatures do they meet and call friends? You&#39;ll get to add your own color and imagination to bring these mythical beings to life on the page. Will you make the seas around her turquoise or aquamarine? How about indigo to match her flickering tail? Decide if she has wavy blonde locks or curled black hair like ink in the water. Maybe she sits on a shelled throne singing a song to the fishes. Or swims with a dolphin pet. The options are endless! By coloring these magical deep sea beauties, I bet you&#39;ll feel transported to their watery world for a while. Will your crayons make her yellow gown billow behind her like golden kelp strands? Can you envision the schools of tiny silver fish that dart all about this gorgeous girl? I hope so, young artist. The more vividly you envision the colors and details, the more magic and life you&#39;ll bring to this page. Now go grab those crayons! A beautiful mermaid awaits the colors only you can give her.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/mermaid coloring page_1.jpg" target="_blank">
+                <img src="/images/mermaid coloring page_1.jpg" alt="mermaid coloring page" title="mermaid coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/mermaid coloring page_2.jpg" target="_blank">
+                <img src="/images/mermaid coloring page_2.jpg" alt="mermaid coloring page" title="mermaid coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/mermaid coloring page_3.jpg" target="_blank">
+                <img src="/images/mermaid coloring page_3.jpg" alt="mermaid coloring page" title="mermaid coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/mermaid coloring page_4.jpg" target="_blank">
+                <img src="/images/mermaid coloring page_4.jpg" alt="mermaid coloring page" title="mermaid coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/mermaid coloring page_5.jpg" target="_blank">
+                <img src="/images/mermaid coloring page_5.jpg" alt="mermaid coloring page" title="mermaid coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/mermaid coloring page_6.jpg" target="_blank">
+                <img src="/images/mermaid coloring page_6.jpg" alt="mermaid coloring page" title="mermaid coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/mermaid coloring page_7.jpg" target="_blank">
+                <img src="/images/mermaid coloring page_7.jpg" alt="mermaid coloring page" title="mermaid coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/mermaid coloring page_8.jpg" target="_blank">
+                <img src="/images/mermaid coloring page_8.jpg" alt="mermaid coloring page" title="mermaid coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/mermaid coloring page_9.jpg" target="_blank">
+                <img src="/images/mermaid coloring page_9.jpg" alt="mermaid coloring page" title="mermaid coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/mermaid coloring page_10.jpg" target="_blank">
+                <img src="/images/mermaid coloring page_10.jpg" alt="mermaid coloring page" title="mermaid coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

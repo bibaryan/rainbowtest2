@@ -1,0 +1,178 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Want to color a fun salamander-like creature? Grab an axolotl coloring page for kids and bring these weird and wonderful animals to life with your crayons!">
+  <meta name="keywords" content="axolotl coloring, axolotl colouring, mexican salamander coloring, mexican salamander colouring, amphibian coloring, amphibian colouring, theme animal coloring, theme animal colouring, printable coloring, printable colouring, educational coloring, educational colouring">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Color an Adorable Axolotl Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Color an Adorable Axolotl Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there doodlebugs! Ever heard of an axolotl? They are the coolest little creatures that look like a mashup of salamanders and dragons. Their coloring pages are perfect for passing time while enjoying some fun facts about these weird and wonderful amphibians. Axolotls have shiny dark skin that comes in a range of colors like black, brown, gold or albino white. But my favorite are the melanoid which are jet black with bright yellow stripe markings - how cool is that!? They have fun little feathery gills and huge googly eyes that stare at you from the page, just begging to be filled in with your rainbow of wax crayons. While you color, here&#39;s a fun fact... axolotls never actually grow up! They stay in a juvenile state their whole lives. Yep, they never lose their gills or grow legs like a &quot;real salamander&quot;, which makes them perfect pets for kids and classrooms. But you don&#39;t even need to buy one of these weird worm salamanders, just grab some coloring pencils and bring these funky little face-mouth creatures to life on your page. So what are you waiting for? Grab your coloring tools and get those whimsical axolotl creations flowing! Before you know it you&#39;ll have a whole army of cheerful gilled guardians watching over you, ready to make you smile every time you look at them. Let me know if you have any other questions, and happy coloring!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_1.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_1.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_2.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_2.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_3.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_3.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_4.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_4.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_5.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_5.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_6.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_6.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_7.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_7.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_8.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_8.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_9.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_9.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_10.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_10.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_11.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_11.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_12.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_12.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_13.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_13.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_14.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_14.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_15.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_15.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_16.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_16.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_17.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_17.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_18.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_18.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_19.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_19.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_20.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_20.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/axolotl coloring page_21.jpg" target="_blank">
+                <img src="/images/axolotl coloring page_21.jpg" alt="axolotl coloring page" title="axolotl coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

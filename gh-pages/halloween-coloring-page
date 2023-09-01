@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Here you go! Happy halloween little ones! Are you looking for a spooky coloring page to get into the holiday spirit? You&#39;ve come to the right place friend. We&#39;ve got tons of printable halloween coloring pages featuring your favorite costumes, creepy crawlies, and sweets so sweet they&#39;re frightening! Go on, grab your crayons and markers and pick a page that&#39;ll make your little ghoul or goblin giggle with glee. The monsters are waiting!">
+  <meta name="keywords" content="halloween coloring page, halloween coloring pages printable, printable halloween coloring pages, free halloween coloring pages, halloween coloring pages for kids, halloween coloring sheets, coloring halloween, halloween coloring, print halloween coloring pages">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Spooky Halloween Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Spooky Halloween Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fans! Do you love spooky season as much as I do? Then you&#39;re gonna flip for these totally twisted Halloween coloring pages! We&#39;ve got creepy cats, howling jack-o-lanterns, ghoulish ghosts plus tons more bone-chilling designs guaranteed to send shivers down your spine. What&#39;s that you ask? You wonder if these pages are too scary? Not a chance, my friend. They&#39;re perfectly tailored to thrill your creative spirit without giving you nightmares. The black and orange color scheme can put a skip in your step instead of a chill up your back. And there are fun patterns everywhere you look from spirals to zig zags to inspire your inner artist. So put on some haunting Halloween tunes, grab your favorite coloring utensils, and let&#39;s get busy bringing these ghouls and goblins to life! Who knows, you may find yourself having so much fun that you won&#39;t realize the sun has set and the moon has risen high that&#39;s the spook-tacular magic of creating! Let me know which scary yet super stylish design becomes your absolute favorite. I&#39;ve got my eye on a wicked witch just begging to be decorated in neon shades. How about you? What character captures your creative spirit most? Mix those colors and let your imagination run wild! I&#39;ll meet you back here to compare masterpieces and trade ghost stories. Sounds like the perfect start to a haunted Halloween!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_1.jpg" target="_blank">
+                <img src="/images/halloween coloring page_1.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_2.jpg" target="_blank">
+                <img src="/images/halloween coloring page_2.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_3.jpg" target="_blank">
+                <img src="/images/halloween coloring page_3.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_4.jpg" target="_blank">
+                <img src="/images/halloween coloring page_4.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_5.jpg" target="_blank">
+                <img src="/images/halloween coloring page_5.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_6.jpg" target="_blank">
+                <img src="/images/halloween coloring page_6.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_7.jpg" target="_blank">
+                <img src="/images/halloween coloring page_7.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_8.jpg" target="_blank">
+                <img src="/images/halloween coloring page_8.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_9.jpg" target="_blank">
+                <img src="/images/halloween coloring page_9.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_10.jpg" target="_blank">
+                <img src="/images/halloween coloring page_10.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_11.jpg" target="_blank">
+                <img src="/images/halloween coloring page_11.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_12.jpg" target="_blank">
+                <img src="/images/halloween coloring page_12.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/halloween coloring page_13.jpg" target="_blank">
+                <img src="/images/halloween coloring page_13.jpg" alt="halloween coloring page" title="halloween coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

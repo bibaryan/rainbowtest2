@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Got a kid who loves dolphins? We&#39;ve got tons of awesome printable dolphin coloring pages for you and your little one to enjoy together. Choose from swimming dolphins, leaping dolphins out of the water, dolphin babies and more - all free and ready for your child&#39;s crayons and markers!">
+  <meta name="keywords" content="dolphin coloring pages, dolphin coloring, coloring pages dolphins, dolphin colouring pages, print coloring pages dolphins, free printable dolphin coloring pages, dolphins coloring sheets, dolphins coloring book, dolphins coloring pages, dolphin coloring book">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Splashing Dolphin Coloring Pages for Ocean Fun</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Splashing Dolphin Coloring Pages for Ocean Fun</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there colorists! You love dolphins, right? Those playful, intelligent creatures just fill you with joy. Dolphin coloring pages are a wonderful way to spend some time with these amazing animals. Our selection of free printable dolphin coloring sheets features all kinds of adorable dolphin designs. There are baby dolphins jumping out of the waves to make you grin. Friendly dolphin pairs swimming side by side, reminding you of the importance of companionship. And solo dolphins putting on a show for you, performing beautiful acrobatic moves like they&#39;re flying through the air. So grab your colored pencils or crayons, find a comfortable spot and just zone out for a bit as you bring these cheerful dolphin illustrations to life. I highly recommend the one with the whole dolphin pod leaping together - it&#39;s like a splash of happiness on the page! But really, you can&#39;t go wrong here. Any of these lovable characters will keep you company and put a smile on your face while you fill them with beautiful colors. Imagine yourself floating peacefully in the water alongside your new dolphin friends as you color. Feel the spray of the waves on your face as they jump and somersault around you, inviting you to play. It&#39;s like a little bit of time away at the beach without even leaving your house! So what are you waiting for? Snag one of these free printable dolphin coloring pages and start spending some quality time with one of nature&#39;s perfect creatures. You and your new dolphin buddies will thank you for the chance to swim together, even if only for a little while, in full color. Enjoy!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_1.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_1.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_2.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_2.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_3.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_3.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_4.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_4.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_5.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_5.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_6.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_6.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_7.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_7.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_8.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_8.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_9.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_9.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_10.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_10.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_11.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_11.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_12.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_12.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dolphin coloring pages_13.jpg" target="_blank">
+                <img src="/images/dolphin coloring pages_13.jpg" alt="dolphin coloring pages" title="dolphin coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

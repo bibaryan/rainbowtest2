@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Want to color cute bee pictures with your kids? You&#39;ll find loads of fun bee designs here featuring buzzy bumblebees, honey bees and more. Pages are simple and easy to color so you can print, grab some crayons and enjoy hours of happy bee-themed creativity with the little ones.">
+  <meta name="keywords" content="bee, coloring, pages, print, queen bee, draw, outline, beehive, templates, honey, apiary, insects, kids, printable, hive, transparent, shapes, creative, pollinate, farm, flower, garden, yellow black, flying">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Buzzing Bee Coloring Pages for Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Buzzing Bee Coloring Pages for Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there colorer! If you&#39;re looking for some adorably cute bee coloring pages to add some fun and buzz to your coloring experience, you&#39;ve come to the right place. We&#39;ve got a whole hive of wonderful bee coloring pages for kids of all ages that will have you coloring away in no time. There are so many bee-utiful options to choose from - little baby bees just learning to make honey, busily working bees hatching from their honeycomb cells, friendly bees buzzing around cheerful flowers, and more. The detailed line drawings with just the right amount of complexity make coloring in these sweet bee characters super enjoyable. What&#39;s better than coloring in cute little bees flying around bright yellow sunflowers on a nice sunny day? Not much! The images will put a smile on your face and get your creative color juices flowing as you decide just which colors will make these bees pop right off the page. You&#39;ll have so much fun bringing the happy world of these little busy bees to life using your colored pencils, crayons, or markers. Grab your favorite coloring tools and get buzzy - these bee coloring pages are sweet as honey! So what are you waiting for? Dive right into our collection of wonderful bee coloring pages - you&#39;re sure to find just the right bee to put a spring in your step and a smile on your face. And if you have kids, share the joy of bee coloring with them. They&#39;ll love buzzing along and coloring in these adorable bee friends as much as you will. So get clicking to print and start coloring - enjoy!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_1.jpg" target="_blank">
+                <img src="/images/bee coloring pages_1.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_2.jpg" target="_blank">
+                <img src="/images/bee coloring pages_2.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_3.jpg" target="_blank">
+                <img src="/images/bee coloring pages_3.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_4.jpg" target="_blank">
+                <img src="/images/bee coloring pages_4.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_5.jpg" target="_blank">
+                <img src="/images/bee coloring pages_5.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_6.jpg" target="_blank">
+                <img src="/images/bee coloring pages_6.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_7.jpg" target="_blank">
+                <img src="/images/bee coloring pages_7.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_8.jpg" target="_blank">
+                <img src="/images/bee coloring pages_8.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_9.jpg" target="_blank">
+                <img src="/images/bee coloring pages_9.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_10.jpg" target="_blank">
+                <img src="/images/bee coloring pages_10.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_11.jpg" target="_blank">
+                <img src="/images/bee coloring pages_11.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bee coloring pages_12.jpg" target="_blank">
+                <img src="/images/bee coloring pages_12.jpg" alt="bee coloring pages" title="bee coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

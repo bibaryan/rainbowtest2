@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Want to color up a storm with gorgeous pictures? You&#39;ve come to the right place, friend. We&#39;ve got loads of lovely coloring images featuring everything from enchanting fairies to sweet kitties just waiting for your crayons and markers. Get creative and have fun!">
+  <meta name="keywords" content="beautiful coloring pages, free beautiful coloring pages, beautiful adult coloring pages, beautiful kids coloring pages, printable beautiful coloring pages, nature coloring pages beautiful, flowers coloring pages beautiful, animals coloring pages beautiful, beach coloring pages beautiful, beautiful coloring pages for adults, best beautiful coloring pages">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Beautiful and Lovely Coloring Pages for Relaxation </title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Beautiful and Lovely Coloring Pages for Relaxation </h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">If you&#39;re looking for some wholesome fun and need a break from screens, beautiful coloring pages are here to save the day. And man, are they a treat for your eyes! You&#39;ll find all kinds of gorgeous illustrations here, from charming animals to lovely landscapes and stunning floral designs. The pages have so many fine details that you&#39;ll feel like you&#39;re meditating as you fill in each curve and swirl with your crayons and colored pencils. It&#39;s kinda zen, in a way. As you color, you&#39;ll notice delicate patterns repeating throughout the pictures like fractals in nature. Your mind can rest as your hands stay busy adding shades of red and yellow and blue. Before you know it, an hour has flown by and you&#39;ve created something wonderful that you can proudly display or gift to a loved one. Say hello to creativity! These coloring pages allow your inner artist to come out and play. There are no &#39;right&#39; or &#39;wrong&#39; ways to fill in the shapes - just have fun experimenting with different color combinations that speak to your mood. You&#39;ll be surprised at how therapeutic the simple act of coloring can be. And you don&#39;t need any special skills; anyone can enjoy and benefit from beautiful coloring pages. So why not give it a try? Grab some colorful pencils, pour yourself a cup of tea, find a comfy spot and lose yourself in the lovely illustrations for a while. Leave your worries at the door and just focus on bringing these gorgeous drawings to life, one smooth stroke at a time. I have a hunch this simple pastime will quickly become one of your favorite ways to unwind and recharge. So what are you waiting for? Your next creative escape awaits!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_1.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_1.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_2.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_2.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_3.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_3.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_4.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_4.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_5.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_5.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_6.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_6.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_7.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_7.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_8.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_8.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_9.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_9.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_10.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_10.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_11.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_11.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_12.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_12.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/beautiful coloring pages_13.jpg" target="_blank">
+                <img src="/images/beautiful coloring pages_13.jpg" alt="beautiful coloring pages" title="beautiful coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

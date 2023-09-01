@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Looking for simple, fun fruit images for your little one to bring to colourful life? You&#39;ve come to the right place friend, we&#39;ve got loads of pineapple, banana and apple pictures waiting for your kiddo to showcase their creative side!">
+  <meta name="keywords" content="apple, orange, lemon, banana, cherry, pear, grapes, berry, strawberry, plum">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Tasty Fruit Coloring Pages for Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Tasty Fruit Coloring Pages for Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fan! Are these fruit pictures calling your name? You&#39;re gonna love coloring in these sweet fruit images to your heart&#39;s content. There are so many different kinds of fruit to choose from to fill in with your favorite colors and spark your imagination. Oranges, apples, bananas, grapes, berries you name it, these fruit pictures probably have it ready for you to bring to colorful life. So what are you waiting for? Grab your crayons, colored pencils, or markers and dive right in! I can practically hear the colors begging to be added as you make these blank fruit images become as lively and delicious looking as the real things. Doesn&#39;t making that banana yellow or cherry red just sound like a scrumptious good time? I bet once you get started exploring all the different kinds of fruit shapes you can color, the hours will just fly by. Do an early afternoon coloring fruit break and check out these yummy pictures. Your coloring skills will become as ripe as the fruit themselves! Just imagine biting into that colorful apple you create or sipping a make-believe juice made from the grapes with all their shades of rich purple. The possibilities are endless with all these blank fruit just waiting for you to color them any way your creativity desires. What are you waiting for? Get coloring those delicious fruit pictures!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/fruit picture for colouring_1.jpg" target="_blank">
+                <img src="/images/fruit picture for colouring_1.jpg" alt="fruit picture for colouring" title="fruit picture for colouring" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fruit picture for colouring_2.jpg" target="_blank">
+                <img src="/images/fruit picture for colouring_2.jpg" alt="fruit picture for colouring" title="fruit picture for colouring" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fruit picture for colouring_3.jpg" target="_blank">
+                <img src="/images/fruit picture for colouring_3.jpg" alt="fruit picture for colouring" title="fruit picture for colouring" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fruit picture for colouring_4.jpg" target="_blank">
+                <img src="/images/fruit picture for colouring_4.jpg" alt="fruit picture for colouring" title="fruit picture for colouring" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fruit picture for colouring_5.jpg" target="_blank">
+                <img src="/images/fruit picture for colouring_5.jpg" alt="fruit picture for colouring" title="fruit picture for colouring" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

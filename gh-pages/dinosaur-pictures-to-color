@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there colorista, are you looking for fun illustrations of dino amigos to bring to life with your colors and creativity? This page has a swell collection of captivating images of tyrannosaurs, triceratops and other prehistoric pals just waiting to be filled with your favorite shades. What are you waiting for, pick up those crayons and let your imagination roar!">
+  <meta name="keywords" content="dinosaur, pictures, coloring, activities, printable, t rex, triceratops, stegosaurus, tyrannosaurus, brachiosaurus, children, education, velociraptor, brontosaurus, ankylosaurus, pterodactyl, dtls, activities, fun, amusing, drawing, amusement">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Roaring Dinosaur Coloring Pages for Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Roaring Dinosaur Coloring Pages for Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">If you&#39;re looking for some prehistoric fun, these dinosaur coloring pages are for you! We&#39;ve got T-Rex pictures that&#39;ll roar to life once you add those sharp teeth and scary claws in your favorite colors. How will you make your T-Rex coloring page unique? Will he be lurking in a jungle of green or stomping across a desert in orange and brown? The choices are yours, kid. Our Stegosaurus pages are perfect for little ones. Those spiky plates just beg to be transformed into rainbows. Can you color each plate a different hue? Your Stegosaurs will parade across the page in a kaleidoscope of color. The gentle giants of the past come alive when you grab those crayons. Even the fiercest raptors want to dance with your colorful markers. Our Velociraptor pages show packs of raptors hunting or perched high in the treetops. Give the lead raptor&#39;s feathers bright colors so he stands out from the flock. The others can blend into the background as they stalk their prey. Your raptors become moving works of art, pouncing across the page. Of course no collection of dinosaur pictures to color would be complete without a towering Apatosaurus. Give him a kind face as you color, showing he&#39;s a gentle vegetarian. His huge body needs lots of colors - how will you fill those huge Sections of skin? The choice is yours, just grab those crayons and let your Apatosaurus come to life in a burst of color! These magnificent beasts from the past demand to be filled with imagination and wonder - only you can bring them to life with color.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_1.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_1.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_2.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_2.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_3.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_3.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_4.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_4.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_5.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_5.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_6.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_6.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_7.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_7.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_8.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_8.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_9.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_9.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_10.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_10.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_11.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_11.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_12.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_12.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_13.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_13.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_14.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_14.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/dinosaur pictures to color_15.jpg" target="_blank">
+                <img src="/images/dinosaur pictures to color_15.jpg" alt="dinosaur pictures to color" title="dinosaur pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Looking for a fun rainbow coloring page for your little one? You&#39;ve come to the right place friend, we&#39;ve got loads of rad rainbow designs for kids of all ages to choose from. Take a look, which rainbow masterpiece will your child color in next?">
+  <meta name="keywords" content="rainbow, coloring pages, rainbow color, rainbow coloring, colorful rainbow, rainbow coloring pages printable, rainbow coloring page, free rainbow coloring pages, kids rainbow coloring pages, rainbow colouring, rainbow colour, children rainbow colouring">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Bright Rainbow Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Bright Rainbow Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Alright kiddos, you wanna color a fun rainbow to brighten up your day? I&#39;ve got the perfect rainbow coloring page for you here. See the big colorful arc with red at the top, then orange, yellow, green, blue and purple in that order? Yup, it&#39;s the classic seven color rainbow we all learned about as kids. This simple outline style lets you fully color the whole rainbow however you want. You wanna use every crayon in the box on this rainbow? Go for it! Make the colors as vibrant and eye-catching as possible. Get out the glitter pens too if you&#39;re feeling extra creative. The more colorful and bright you make this rainbow, the happier it will seem, right? Imagine how the rainbow will look once you&#39;ve filled it in completely with your favorite hues. Want a challenge? Try coloring the rainbow using only two or three different colors. Changing up the pattern every couple bands can look pretty cool and modern. OR, make each color fade into the next one to create an ombre rainbow effect. There are so many different ways to color this classic rainbow shape and make it your own. So what are you waiting for, grab those crayons! The sooner you start coloring, the sooner you&#39;ll have a finished rainbow to color the walls of your room and brighten up your day with its cheerful colors. Have fun!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/rainbow coloring page_1.jpg" target="_blank">
+                <img src="/images/rainbow coloring page_1.jpg" alt="rainbow coloring page" title="rainbow coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/rainbow coloring page_2.jpg" target="_blank">
+                <img src="/images/rainbow coloring page_2.jpg" alt="rainbow coloring page" title="rainbow coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

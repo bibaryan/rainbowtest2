@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there colouring fans! Fancy colouring in some awesome tank pictures? We&#39;ve got loads of military tank colouring pages featuring all sorts of tanks from history just waiting for your crayons and markers. Grab a tank image, unleash your creative side and bring these strong steel machines to colourful life! Okay, enough chatter, start colouring!">
+  <meta name="keywords" content="tank, coloring, coloring pages, tank coloring pages, tank colouring pages, colouring pages, free tank coloring pages, military tank coloring pages, military coloring pages, army tank">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Military Tank Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Military Tank Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there potential colorer! You like coloring fun vehicles don&#39;t ya? Well I&#39;ve got the perfect coloring page for you, a top-notch tank coloring page. Yep you heard me, a coloring page showing off one of those giant armored fighting vehicles. I know what you&#39;re thinking, &#39;tanks are bad, right?&#39; But these coloring pages are all about the fun shapes, awesome camo patterns, and fierce features of a tank. We&#39;ve got choices too, from World War II era tanks to modern day combatants. You want the classic Sherman tank from WWII? We&#39;ve got it. How about a Russian T-34 or German Panzer? We&#39;ve your back. Maybe an Abrams M1A1 or Challenger 2 is more your speed. We cover the gamut of history&#39;s greatest engines of steel on treads. So grab your colored pencils and get ready to fill in panels, circles wheels, and gun barrels galore. Let those box tanks and wedge-shaped tanks come alive in your favorite colors. Give the camo patterns some pizazz with neon shades. The choices are yours! But whatever tank you pick, I promise you&#39;re in for a good time bringing one of man&#39;s metal giants to colorful life. The history, the action, it&#39;s all waiting for you to give it some color. So what are you waiting for? Start coloring that tank! In summary, kid, if giant military vehicles of the past and present interest you even a little, these tank coloring pages will have you busy for hours putting the vibrancy of your crayon box onto some serious firepower. Get coloring!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_1.jpg" target="_blank">
+                <img src="/images/tank coloring page_1.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_2.jpg" target="_blank">
+                <img src="/images/tank coloring page_2.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_3.jpg" target="_blank">
+                <img src="/images/tank coloring page_3.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_4.jpg" target="_blank">
+                <img src="/images/tank coloring page_4.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_5.jpg" target="_blank">
+                <img src="/images/tank coloring page_5.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_6.jpg" target="_blank">
+                <img src="/images/tank coloring page_6.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_7.jpg" target="_blank">
+                <img src="/images/tank coloring page_7.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_8.jpg" target="_blank">
+                <img src="/images/tank coloring page_8.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_9.jpg" target="_blank">
+                <img src="/images/tank coloring page_9.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_10.jpg" target="_blank">
+                <img src="/images/tank coloring page_10.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_11.jpg" target="_blank">
+                <img src="/images/tank coloring page_11.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/tank coloring page_12.jpg" target="_blank">
+                <img src="/images/tank coloring page_12.jpg" alt="tank coloring page" title="tank coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there coloring fans! Have you ever wanted to color a really cute turtle picture? Well look no further, we&#39;ve got loads of fun turtle coloring pages for you to download and make your own. The laid back shell dwellers make perfect subjects for your coloring pencils or markers, so grab one and get creative!">
+  <meta name="keywords" content="turtle, turtle coloring pages, sea turtle coloring page, turtle coloring page free, turtle coloring page printable, turtle coloring sheets, turtles coloring pages, kids turtle coloring pages, free turtle coloring pages, baby turtle coloring page, coloring pages turtles, toddler turtle coloring pages">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Dive Into Fun With This Sea Turtle Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Dive Into Fun With This Sea Turtle Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fans! Do you love turtles as much as I do? Those cute little shelled friends just beg to have their pictures filled with your colorful crayons and markers. You&#39;ll find no shortage of turtle coloring page images here for you to bring to life and make your very own. From sweet baby sea turtles to giant leatherbacks, these turtle coloring fun will transport you underwater and put a smile on your face. How about starting with a simple green sea turtle? You can make the calm ocean waters around him any shade of blue that makes you feel lazy and relaxed like he looks. Going for a more adventurous design? Choose a snappish snapping turtle and add scary toothy jaws...but make sure to keep his beady little eyes kind. Are you in the mood for making something cute? You can&#39;t lose with an adorable baby turtle coloring page full of bright primary colors that will pop right off the page. Whatever type of turtle image catches your eye, I encourage you to grab some crayons and go wild spreading color across their shells and beyond.There&#39;s a simple pleasure in bringing these creatures to colorful life, even if it&#39;s just for a short while. Who knows, you may find some inner calmness as you fill in each intricate pattern and curve within the lines. So what are you waiting for, my coloring friend? Dive in and discover the joy of turtle coloring pages!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_1.jpg" target="_blank">
+                <img src="/images/turtle coloring page_1.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_2.jpg" target="_blank">
+                <img src="/images/turtle coloring page_2.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_3.jpg" target="_blank">
+                <img src="/images/turtle coloring page_3.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_4.jpg" target="_blank">
+                <img src="/images/turtle coloring page_4.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_5.jpg" target="_blank">
+                <img src="/images/turtle coloring page_5.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_6.jpg" target="_blank">
+                <img src="/images/turtle coloring page_6.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_7.jpg" target="_blank">
+                <img src="/images/turtle coloring page_7.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_8.jpg" target="_blank">
+                <img src="/images/turtle coloring page_8.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_9.jpg" target="_blank">
+                <img src="/images/turtle coloring page_9.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_10.jpg" target="_blank">
+                <img src="/images/turtle coloring page_10.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_11.jpg" target="_blank">
+                <img src="/images/turtle coloring page_11.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_12.jpg" target="_blank">
+                <img src="/images/turtle coloring page_12.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/turtle coloring page_13.jpg" target="_blank">
+                <img src="/images/turtle coloring page_13.jpg" alt="turtle coloring page" title="turtle coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

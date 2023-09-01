@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey kids, looking for some fun under the sea coloring fun? These fish coloring pages are perfect for you! Choose a colorful clownfish, pretty tropical tang, or beautiful whale shark to brighten up with your crayons. What sea creature will you make swimm with color today?">
+  <meta name="keywords" content="fish, coloring, colorings, pages, page, fish coloring page, fish coloring pages, sea creatures coloring, sea creature coloring, underwater animals coloring, underwater animal coloring">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Fantastic Fish Coloring Pages for Under the Sea Fun</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Fantastic Fish Coloring Pages for Under the Sea Fun</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there! If you&#39;re looking for some fun and creative fish coloring pages for your kid, you&#39;ve come to the right place. We&#39;ve got loads of great coloring images featuring all kinds of fish from the deep blue sea. Kids just love coloring pages of fish - there are so many unusual and colorful underwater creatures to choose from! Our fish coloring pages feature everything from the classics like goldfish and puffer fish to more exotic species like clown fish, angelfish and lionfish. The vivid colors and funky patterns on the fish really spark kids&#39; imaginations and help the images come alive on the page as they color. It&#39;s like taking a trip to the aquarium without leaving the house! The fish coloring pages transport kids right into the dazzling underwater world with all its fins, scales and glistening bubbles. Your little one can spend hours carefully choosing just the right color for each fish&#39;s scales and tail. And there are so many options to keep them entertained for quite a while. Do your kids like choosing crazy combinations of colors? Or are they more drawn to replicating the true colors of real fish? They can color the scales in fine detail or fill the entire page in broad brushstrokes - the choice is theirs! The fish images offer just the right amount of creative freedom within clear lines. So give those crayons or colored pencils a wave and dive in! The fish are waiting and your kids&#39; imaginations are ready for an underwater adventure. What are you waiting for - grab a coloring page and make a splash of color in the sea!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_1.jpg" target="_blank">
+                <img src="/images/fish coloring pages_1.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_2.jpg" target="_blank">
+                <img src="/images/fish coloring pages_2.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_3.jpg" target="_blank">
+                <img src="/images/fish coloring pages_3.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_4.jpg" target="_blank">
+                <img src="/images/fish coloring pages_4.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_5.jpg" target="_blank">
+                <img src="/images/fish coloring pages_5.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_6.jpg" target="_blank">
+                <img src="/images/fish coloring pages_6.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_7.jpg" target="_blank">
+                <img src="/images/fish coloring pages_7.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_8.jpg" target="_blank">
+                <img src="/images/fish coloring pages_8.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_9.jpg" target="_blank">
+                <img src="/images/fish coloring pages_9.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_10.jpg" target="_blank">
+                <img src="/images/fish coloring pages_10.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_11.jpg" target="_blank">
+                <img src="/images/fish coloring pages_11.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_12.jpg" target="_blank">
+                <img src="/images/fish coloring pages_12.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fish coloring pages_13.jpg" target="_blank">
+                <img src="/images/fish coloring pages_13.jpg" alt="fish coloring pages" title="fish coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

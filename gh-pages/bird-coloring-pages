@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there, looking for some fun bird coloring pages for your kids? You&#39;ve come to the right place friend, we&#39;ve got tons of awesome designs sure to put a smile on your little one&#39;s face. From colorful cardinals to elegant flamingos and over a dozen other feathered friends, we&#39;re confident y&#39;all will find the perfect page to spread some cheer. Whatcha waiting for, start coloring!">
+  <meta name="keywords" content="bird, birds, winged, wings, coloring, color, colour, pages, page, printable, printables, download, feathered, feathers, chickadees, finches, sparrows, robins, waterfowl, waterbird, wren, downloads">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Color Feathered Friends with Fun Bird Coloring Pages </title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Color Feathered Friends with Fun Bird Coloring Pages </h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fans! If you love birds and want some cool images to add a splash of color to, you&#39;ve come to the right place. We&#39;ve got tons of bird coloring pages featuring all kinds of feathered friends - from humongous hawks and eagles soaring high overhead, to tiny finches fluttering about in the trees. Want to give your crayons and colored pencils a fun challenge? How about coloring in an exquisite peacock with its fan of brilliant iridescent blues, greens and purples? Or bring to life a regal owl perched on a branch, its wise gaze seeming to penetrate right through you. The possibilities are endless - from bright and charming parakeets perfect for children, to colorful cockatoos and macaws for older kids. Whether you like the songbirds that wake you with their cheerful melodies each morning, or the birds of prey that rule the skies with majestic grace, you&#39;ll find coloring pages here that will get your creative juices flowing. Go ahead, color your heart out! Think of all the different hues you could try to match each colorful feather, the variations of beaks and eyes to customize each bird to your own liking. Why not sit back with some music playing softly, a box of crayons within easy reach and transport yourself into a world of feathered friends just waiting to be brought to life in brilliant color? You may find yourself humming along with the birdsong as your creativity unleashes a rainbow on the page. You&#39;ll fill each simple outline with your own personality and before you know it, you&#39;ve forgotten about everything else for a while and entered a world of color and imagination with your new avian companions. So what are you waiting for? Find a comfortable spot, grab your coloring essentials and let&#39;s bring some birds to beautiful colorful life!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_1.jpg" target="_blank">
+                <img src="/images/bird coloring pages_1.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_2.jpg" target="_blank">
+                <img src="/images/bird coloring pages_2.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_3.jpg" target="_blank">
+                <img src="/images/bird coloring pages_3.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_4.jpg" target="_blank">
+                <img src="/images/bird coloring pages_4.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_5.jpg" target="_blank">
+                <img src="/images/bird coloring pages_5.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_6.jpg" target="_blank">
+                <img src="/images/bird coloring pages_6.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_7.jpg" target="_blank">
+                <img src="/images/bird coloring pages_7.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_8.jpg" target="_blank">
+                <img src="/images/bird coloring pages_8.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_9.jpg" target="_blank">
+                <img src="/images/bird coloring pages_9.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_10.jpg" target="_blank">
+                <img src="/images/bird coloring pages_10.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_11.jpg" target="_blank">
+                <img src="/images/bird coloring pages_11.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_12.jpg" target="_blank">
+                <img src="/images/bird coloring pages_12.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_13.jpg" target="_blank">
+                <img src="/images/bird coloring pages_13.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_14.jpg" target="_blank">
+                <img src="/images/bird coloring pages_14.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/bird coloring pages_15.jpg" target="_blank">
+                <img src="/images/bird coloring pages_15.jpg" alt="bird coloring pages" title="bird coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

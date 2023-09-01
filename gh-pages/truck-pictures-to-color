@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there coloring fans! Want some big, hulking machines to fill with color? We&#39;ve got loads of cool truck pictures just waiting for your crayons and markers. Dump trucks, firetrucks, monster trucks- you name the type of truck, we&#39;ve got a photo for you to make your very own, one colorful dot at a time. Check out our giant collection of picturesque trucks today!">
+  <meta name="keywords" content="truck, lorry, haul, vehicle, transport, semi, cargo, paint, colour, images, photographs, pickups, off road, tow, wheels, driver, freight, wide load, heavy, cab, diesel, traveling, gary brandsieker, shutterstock">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Rev Up The Fun With Exciting Truck Coloring Pages </title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Rev Up The Fun With Exciting Truck Coloring Pages </h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fan! Are you looking for some fun truck coloring pages to entertain your little one? You&#39;ve come to the right place friend because we&#39;ve got all kinds of sweet truck pictures that are just begging to be filled in with your kid&#39;s favorite crayons and colored pencils. From big burly monster trucks ready to crush tiny cars, to fire trucks zipping to the rescue with lights flashing and sirens blaring, to 18-wheelers hauling heavy loads cross-country, our collection of truck coloring images has something for every budding vehicle enthusiast. We aim to take your little driver on a colorfully illustrated ride full of fun vehicles that will ignite their imagination. Our free online truck coloring pages offer a wide selection sure to satisfy any aspiring driver or vehicle lover. Whether they dream of being a trucker cruising long highways or a fire truck hero zooming to emergencies, these printable coloring images will fuel make-believe play for hours. The large shapes and simple designs make these coloring sheets effortless for little hands while fostering vehicle recognition. So grab those colored pencils friend, pass one to your little driver, and get ready to fill some pages with color. You&#39;ll soon be cruising down the open road of creativity together while your little truck lover&#39;s imagination shifts into high gear! Have fun fellow coloring cruisers, and we hope these truck pictures provide smiles and giggles of joy for you and your child. How does that sound? I tried to make it conversational and engaging for a young audience while still providing useful information about the truck coloring pages. Let me know if you&#39;d like me to modify or expand the description at all.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_1.jpg" target="_blank">
+                <img src="/images/truck pictures to color_1.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_2.jpg" target="_blank">
+                <img src="/images/truck pictures to color_2.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_3.jpg" target="_blank">
+                <img src="/images/truck pictures to color_3.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_4.jpg" target="_blank">
+                <img src="/images/truck pictures to color_4.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_5.jpg" target="_blank">
+                <img src="/images/truck pictures to color_5.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_6.jpg" target="_blank">
+                <img src="/images/truck pictures to color_6.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_7.jpg" target="_blank">
+                <img src="/images/truck pictures to color_7.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_8.jpg" target="_blank">
+                <img src="/images/truck pictures to color_8.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_9.jpg" target="_blank">
+                <img src="/images/truck pictures to color_9.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_10.jpg" target="_blank">
+                <img src="/images/truck pictures to color_10.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/truck pictures to color_11.jpg" target="_blank">
+                <img src="/images/truck pictures to color_11.jpg" alt="truck pictures to color" title="truck pictures to color" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

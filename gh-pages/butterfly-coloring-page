@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Want to color a gorgeous butterfly with your kiddos? These fun and free butterfly pages are perfect for little artists. The bright colors and intricate patterns will have your kids wrapped up in creative bliss in no time. Give &#39;em a try!">
+  <meta name="keywords" content="butterfly, coloring, page, insect, nature, art, preschool, fun, yellow, orange, black, red, kids">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Fluttering Butterfly Coloring Page for Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Fluttering Butterfly Coloring Page for Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Looking for a simple yet beautiful page to color in for yourself or the kids? Grab a butterfly coloring page and watch those fluttery wings come to life in vibrant color. You&#39;ll be amazed at how majestic even the simplest butterfly illustrations can look once you&#39;ve filled them in with your favorite shades. Butterflies have a magical, almost fairy-like quality that fires up kids&#39; imaginations and soothes the soul of adults. What&#39;s not to love about those delicate patterns, iridescent colors, and graceful wings? Coloring in the details of these beautiful creatures is a perfect activity to quiet your mind and bring some whimsy into your day. There are so many different butterfly designs to choose from - perpetual classic patterns like monarch, swallowtail and viceroy butterflies, international styles like South American morpho butterflies, or avant-garde modern butterfly shapes in geometric contours or abstract designs. You&#39;re sure to find simple outlines for younger colorists and more detailed cutouts for older kids. Doesn&#39;t just imagining selecting your colored pencils, crayons or markers and filling in those open spaces have a calming effect? You&#39;ll slowly watch a plain, black and white illustration transform before your eyes as you gently shade in sections, adding depth and dimension to the wings. Why not make it a relaxing evening ritual or cozy bonding activity with the whole family? Give those butterfly coloring pages a try - I promise you&#39;ll be swept away by those fluttering wings and carried to a more serene space, even if only for a little while. Your colored butterflies will brighten up any room and provide inspiration for creative days to come. So grab those crayons and let&#39;s set those beautiful creatures free to float across the page!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_1.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_1.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_2.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_2.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_3.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_3.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_4.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_4.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_5.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_5.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_6.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_6.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_7.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_7.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_8.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_8.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_9.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_9.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_10.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_10.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_11.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_11.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_12.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_12.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_13.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_13.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_14.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_14.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_15.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_15.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/butterfly coloring page_16.jpg" target="_blank">
+                <img src="/images/butterfly coloring page_16.jpg" alt="butterfly coloring page" title="butterfly coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

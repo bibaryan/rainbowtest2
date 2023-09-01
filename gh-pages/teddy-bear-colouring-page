@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Want a classic teddy bear coloring page for the kiddos? You&#39;ve come to the right place, friend. We&#39;ve got loads of cute teddy designs at different difficulties so every little bear lover can join the coloring fun!">
+  <meta name="keywords" content="teddy bear colouring page, teddy bear colour pages, teddy coloring pages, color teddy bear pages, teddy bear coloring sheets, free teddy bear colouring sheets, downloadable teddy bear colouring pages, print teddy bear colouring sheets, print teddy coloring pages, print teddy colouring pages, teddy bear colouring book pages, printable teddy bear colour pages, teddy bear colour pictures free">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Cute Teddy Bear Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Cute Teddy Bear Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">You want a classic teddy bear coloring page for your little one? Well, you&#39;ve come to the right place friend. We&#39;ve got tons of adorable teddy bear coloring images just waiting to be filled with crayon and marker magic. What little kid doesn&#39;t love teddy bears? They&#39;re fuzzy, cute and make the perfect companion for imaginative play. Our teddy bear coloring pages capture the charm and simplicity that kids love. You&#39;ll find simple line drawings of teddy bears sleeping, walking, picnicking with friends and more. The minimal details mean your child can put their own creative stamp on the drawing and make it truly their own. Whether your kiddo likes coloring realistic bears or more cartoon-like styles, there&#39;s a teddy coloring page here to suit their taste. The rounded shapes and soft lines create a soothing atmosphere that helps kids relax and unleash their creativity. The pages also make great gifts - just print, fold and add a box of crayons for a present your little bear lover is sure to adore. So grab those colors and get to scribbling! Allow that teddy bear to come alive in bright reds, blues, yellows and greens - or opt for more natural browns and tans. There are no rules here, just fun. The teddy bear coloring pages will provide hours of simple, joyful entertainment and maybe even become fast friends with your kid. So what are you waiting for? Print a page and make a masterpiece - your little artist will thank you.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_1.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_1.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_2.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_2.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_3.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_3.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_4.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_4.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_5.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_5.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_6.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_6.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_7.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_7.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_8.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_8.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_9.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_9.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_10.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_10.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/teddy bear colouring page_11.jpg" target="_blank">
+                <img src="/images/teddy bear colouring page_11.jpg" alt="teddy bear colouring page" title="teddy bear colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

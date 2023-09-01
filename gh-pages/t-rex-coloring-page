@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Need a fun way to keep your kids busy? The T-Rex coloring page is sure to be a hit! Get &#39;em coloring those ferocious dino teeth and creepy claws with pages just right for little dinosaur lovers. What kid doesn&#39;t love playing paleontologist for an afternoon?">
+  <meta name="keywords" content="t rex coloring page, dinosaur coloring page, trex coloring, tyrannosaurus rex coloring, color t rex, color tyrannosaurus rex, dino coloring, jurassic coloring, prehistoric coloring, t rex colouring page, big dinosaur coloring, scary dinosaur coloring">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Fierce T-Rex Coloring Page </title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Fierce T-Rex Coloring Page </h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there, want a fun coloring page for your kids? The T-Rex page is a jaw-dropping option! Your little dinosaur lovers will roar with delight when they see this prehistoric beast staring back at them. You&#39;ve got multiple T-Rex options to choose from. There&#39;s the classic ferocious T-Rex about to chomp down on its prey. Just imagine filling in those razor-sharp teeth and menacing tiny arms in all the wrong colors! There&#39;s also a baby T-Rex coloring page that&#39;s as cute as it is fierce. What&#39;s scarier than a newborn baby dinosaur? Nothing, that&#39;s what! And don&#39;t forget team T-Rex - you can have your kids color in an entire family of these carnivorous kings of the Cretaceous period. Once your little artists get started on their T-rex coloring project, they probably won&#39;t want to stop. They&#39;ll spend hours debating which colors make the most terrifying T-Rex; fiery red and orange or strict black and grey? I&#39;m picturing hot pink teeth and a lime green body that will have your kids in stitches. And spiral patterns everywhere! Your artists can really use their imagination to transform these ferocious creatures into one-of-a-kind masterpieces. So if you need a creative distraction to keep your young ones busy for a while, grab a T-Rex coloring page and plenty of crayons. You never know, you may just discover a little budding palaeontologist in the process! What are you waiting for, help your kids unleash their inner dinosaur hunter through the power of color. Your roars of laughter will echo for generations.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/t rex coloring page_1.jpg" target="_blank">
+                <img src="/images/t rex coloring page_1.jpg" alt="t rex coloring page" title="t rex coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/t rex coloring page_2.jpg" target="_blank">
+                <img src="/images/t rex coloring page_2.jpg" alt="t rex coloring page" title="t rex coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/t rex coloring page_3.jpg" target="_blank">
+                <img src="/images/t rex coloring page_3.jpg" alt="t rex coloring page" title="t rex coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/t rex coloring page_4.jpg" target="_blank">
+                <img src="/images/t rex coloring page_4.jpg" alt="t rex coloring page" title="t rex coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/t rex coloring page_5.jpg" target="_blank">
+                <img src="/images/t rex coloring page_5.jpg" alt="t rex coloring page" title="t rex coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/t rex coloring page_6.jpg" target="_blank">
+                <img src="/images/t rex coloring page_6.jpg" alt="t rex coloring page" title="t rex coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/t rex coloring page_7.jpg" target="_blank">
+                <img src="/images/t rex coloring page_7.jpg" alt="t rex coloring page" title="t rex coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/t rex coloring page_8.jpg" target="_blank">
+                <img src="/images/t rex coloring page_8.jpg" alt="t rex coloring page" title="t rex coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/t rex coloring page_9.jpg" target="_blank">
+                <img src="/images/t rex coloring page_9.jpg" alt="t rex coloring page" title="t rex coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

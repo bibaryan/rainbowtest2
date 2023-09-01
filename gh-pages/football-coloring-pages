@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Want to decorate your game day with awesome football designs? We&#39;ve got tons of gridiron-themed coloring fun for both beginners and die-hard fans - helmets, cleats, playbooks and more just waiting to be filled with your team&#39;s colors!">
+  <meta name="keywords" content="football, coloring pages, football coloring, printable football coloring pages, football colouring pages, soccer coloring pages, soccer colouring pages, sports coloring pages, kids football coloring pages, free football coloring pages, football managers coloring pages, football players coloring pages">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Fun Football Coloring Pages for Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Fun Football Coloring Pages for Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there! Football coloring pages are a fun way for kids who love the game to get creative. There are so many cool designs out there with your favorite football players, teams, and stadiums just waiting to be customized and colored in your own way. Whether your little one wants to color a page showing a football field from above, football equipment like helmets and jerseys, or fan banners for their favorite NFL or college team, you&#39;re sure to find what you&#39;re looking for. Kids can spend hours adding their own special touches and color schemes to bring these images to life. Do they want Peyton Manning&#39;s jersey blue and orange or black and yellow? Are Tom Brady&#39;s gloves going to be red and white or green and silver? It&#39;s totally up to your creative kid to decide. The choices are endless and the fun never stops! These coloring pages are perfect for days when the weather keeps you inside or kids just need a chill activity to keep them occupied. They promote hand-eye coordination, concentration, and imagination as little artists put their own personal spin on these classic football illustrations. And when they&#39;re done, they have a fun piece of artwork they can show off and hang on the fridge. Sounds like a win-win, right? So if you have a budding young fan of the gridiron who loves color, action, and America&#39;s favorite sport, football coloring pages are a no-brainer. Grab a pack of crayons or markers and let the creative games begin! Who knows, you might inspire the next Tom Brady or Peyton Manning along the way.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/football coloring pages_1.jpg" target="_blank">
+                <img src="/images/football coloring pages_1.jpg" alt="football coloring pages" title="football coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/football coloring pages_2.jpg" target="_blank">
+                <img src="/images/football coloring pages_2.jpg" alt="football coloring pages" title="football coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

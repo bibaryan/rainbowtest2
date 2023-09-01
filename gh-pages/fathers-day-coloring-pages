@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Find just the right coloring page to show Dad you care this Father&#39;s Day! We&#39;ve got humor-filled, heartwarming, and classic images your little ones will love coloring in to make their Papa smile. How about a fun fishing scene?">
+  <meta name="keywords" content="fathers day coloring pages, free fathers day coloring pages, fathers day coloring pages for preschoolers, fathers day coloring pages for dad, fathers day coloring pages pdf, fathers day coloring pages printable, fathers day coloring page printable, fathers day coloring printables, fathers day coloring sheets, fathers day colouring pages, fathers day colouring sheets, fathers day colouring, print fathers day coloring pages">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Special Fathers Day Coloring Pages for Dad</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Special Fathers Day Coloring Pages for Dad</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fan! Are you looking for some fun fathers day coloring pages to celebrate dad? You&#39;ve come to the right place. We&#39;ve got tons of coloring pages here just perfect for dads of all kinds - whether your father likes sports, cars, grilling out or just spending time with the family. Do you want to show dad how much you care this fathers day? Grab some crayons, markers or colored pencils and get coloring! These coloring pages are like heartfelt works of art - they&#39;ll bring a smile to your dad&#39;s face when he sees the time you put into coloring just for him. And while you color, you and dad can spend some quality time together. It&#39;s like your own little Father&#39;s Day tradition in the making! The best part? Adding your own personal touch to the coloring pages. Make dad&#39;s tie his favorite color, color the barbecue grill dad always uses on holidays or fill the bleacher seats at the baseball field with dad&#39;s favorite team&#39;s colors. Your dad will love seeing the page come to life with colors you picked just for him. So what are you waiting for? Grab a page, find your favorite coloring utensils and get to work! In no time at all you&#39;ll have a Father&#39;s Day gift your dad will cherish forever - a one-of-a-kind coloring page filled with love, just from you. Happy coloring!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/fathers day coloring pages_1.jpg" target="_blank">
+                <img src="/images/fathers day coloring pages_1.jpg" alt="fathers day coloring pages" title="fathers day coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fathers day coloring pages_2.jpg" target="_blank">
+                <img src="/images/fathers day coloring pages_2.jpg" alt="fathers day coloring pages" title="fathers day coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fathers day coloring pages_3.jpg" target="_blank">
+                <img src="/images/fathers day coloring pages_3.jpg" alt="fathers day coloring pages" title="fathers day coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fathers day coloring pages_4.jpg" target="_blank">
+                <img src="/images/fathers day coloring pages_4.jpg" alt="fathers day coloring pages" title="fathers day coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/fathers day coloring pages_5.jpg" target="_blank">
+                <img src="/images/fathers day coloring pages_5.jpg" alt="fathers day coloring pages" title="fathers day coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

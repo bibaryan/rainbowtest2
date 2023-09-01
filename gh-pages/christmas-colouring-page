@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Want to color and bring more Christmas cheer into your day? Our free printable Christmas coloring pages have lots of festive scenes, trees, and gift-wrapped presents perfect for kids and those young at heart. Grab your crayons and find some holiday spirit!">
+  <meta name="keywords" content="christmas, colouring, page, pictures, sheets, kids, printables, activities, free, fun, images, tree, coloring, color, santa, designs, create, photos, wreath, reindeer, gifts, tangram, patterns">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Merry Christmas Coloring Page for Holiday Fun</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Merry Christmas Coloring Page for Holiday Fun</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Alright kids, are you ready for some fun, simple yet sweet Christmas colouring excitement? These bold and bright Christmas colouring pages are perfect for busy families like ours looking for some festive cheer whilst cooped up indoors. The designs feature all your favourite things about Christmas - snowmen, reindeer, stars, candy canes, gingerbread folks and of course, jolly old Saint Nick himself! You&#39;ll find easy images for the little ones as well as more detailed drawings for my older colouring fans. Go ahead and choose whichever page sparks some holiday joy in your imagination. Then grab your box of colouring pencils, crayons or markers and get to work bringing these wintery scenes and characters to life! There are no wrong choices when it comes to colour - let your creativity guide you and find new ways to fill these pages with colour. When you&#39;re done, you just might have created your own work of cheerful Christmas art! What do you say, shall we dive into some festive colouring fun? Pick a page and let&#39;s decorate some candy canes, colour in some snowflakes or illuminate Saint Nick&#39;s sled with every shade you can find! We&#39;ll fill these pages with reds, greens and every colour under the winter sun. And best of all, we get to spend some quality time together making merry memories that will last long after Christmas day. So grab a page, grab your kid and grab those colouring essentials - let&#39;s go!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/christmas colouring page_1.jpg" target="_blank">
+                <img src="/images/christmas colouring page_1.jpg" alt="christmas colouring page" title="christmas colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/christmas colouring page_2.jpg" target="_blank">
+                <img src="/images/christmas colouring page_2.jpg" alt="christmas colouring page" title="christmas colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/christmas colouring page_3.jpg" target="_blank">
+                <img src="/images/christmas colouring page_3.jpg" alt="christmas colouring page" title="christmas colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/christmas colouring page_4.jpg" target="_blank">
+                <img src="/images/christmas colouring page_4.jpg" alt="christmas colouring page" title="christmas colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/christmas colouring page_5.jpg" target="_blank">
+                <img src="/images/christmas colouring page_5.jpg" alt="christmas colouring page" title="christmas colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

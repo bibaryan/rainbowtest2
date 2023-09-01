@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there, looking for some fun reindeer coloring pages for the kids? You&#39;ve come to the right place. We&#39;ve got all sorts of festive prints featuring Rudolph and his reindeer pals for your little ones to bring to life with their coloring crayons, markers or pencils. Color the merry reindeer leaping over snow banks, pulling Santa&#39;s sleigh across a starry winter&#39;s night sky, or just hanging out in their cozy reindeer stable. The choices are endless and the holiday spirit is guaranteed!">
+  <meta name="keywords" content="reindeer, coloring, pages, christmas, deer, kids, print, svg, clipart, halloween, crafts, free, online, images, animals, rudolph, snow, fun, winter, reindeer coloring pages">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Jolly Reindeer Coloring Pages</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Jolly Reindeer Coloring Pages</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fans! Who doesn&#39;t love reindeer, especially this time of year? I bet you love coloring all kinds of cute animals, and reindeer are some of the cutest. I know I do, and these reindeer coloring pages are perfect for getting into the festive, Christmas spirit. We&#39;ve got all sorts of fun reindeer to color. There&#39;s the classic standing reindeer with big antlers and a red nose just begging to be filled in with your favorite reds, greens, and browns. How about cute baby reindeer frolicking in the snow? You&#39;ll have a blast tracing those little hoof prints and horns bringing them to life with your colors. Then there are the flying reindeer pullin&#39; Santa&#39;s sleigh. Can you imagine soaring through the sky with Rudolph leading the way? Well with these coloring pages you can! You&#39;ll feel like you&#39;re right there helping Santa deliver presents on Christmas eve. Don&#39;t forget to color their harnesses and jingle bells! We even have more artistic reindeer coloring pages like sketch style line drawings if you want more of a challenge. Go ahead and show off your wide range of coloring skills whether it&#39;s inside the lines or fill in with your own custom design. There are no rules when it comes to creativity, am I right? So what are you waiting for? Grab your crayons, colored pencils, and markers and let&#39;s bring these adorable reindeer to life! Pick out your favorites, print them out, and start filling those pages with color. Before you know it you&#39;ll have a collection of festive reindeer masterpieces to hang on your fridge, give as gifts, or just enjoy as you countdown to Christmas day. The choices are limitless - now it&#39;s up to you and your imagination! Have fun and happy coloring!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_1.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_1.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_2.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_2.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_3.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_3.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_4.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_4.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_5.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_5.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_6.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_6.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_7.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_7.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_8.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_8.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_9.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_9.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_10.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_10.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/reindeer coloring pages_11.jpg" target="_blank">
+                <img src="/images/reindeer coloring pages_11.jpg" alt="reindeer coloring pages" title="reindeer coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

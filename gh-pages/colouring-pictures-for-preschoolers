@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there! coloring pages are such a fun, simple activity for preschoolers. The images provide lots of shape and color practice in a no-pressure way. My little ones just love choosing their crayons and filling in the fun characters and objects at their own pace. What preschooler doesn&#39;t enjoy putting a splash of color onto cute animal pictures, bright food images and other kid-friendly illustrations? I say grab those crayons and unleash some preschool creativity!">
+  <meta name="keywords" content="colouring pictures, colouring worksheets preschoolers, colour by numbers preschool, colour preschool printable, colour sheets preschoolers, preschool colour sheets, colour preschool activities, printable colouring pages preschool, colour pictures preschoolers, colour photos preschoolers">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Colorful Pictures for Preschoolers to Spark Creativity</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Colorful Pictures for Preschoolers to Spark Creativity</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Kid, you know coloring is one of the simplest, most fun activities for little ones. It activates their imagination and develops important skills at the same time. The pictures we have for preschoolers focus on familiar themes and simple shapes to make coloring fun and easy. When your little one picks up those colorful crayons and markers, they&#39;re training essential motor skills as they go. Their little hands are strengthening as they hold and maneuver the writing utensils. At the same time, they&#39;re learning how to stay within the lines and control the coloring pressure. The pictures themselves cover simple themes that are meaningful to preschoolers. We have lots of animals for your kiddo to color because at this age, animals are super interesting. Not to mention they help develop vocabulary words and recognition skills. We&#39;ve got farm animals, zoo animals, pet animals galore. Your child can color to their heart&#39;s content! How about some vehicles? Airplanes, trains, cars and trucks are always a hit with little ones. They represent movement and adventure, two things preschoolers love. The vehicle coloring pages help kids learn vehicle names and parts while having fun. Other popular preschool coloring page themes include people, nature, food and community helpers. Simple pictures of familiar objects with big shapes bring smiles to kids&#39; faces as they decorate to their liking. There&#39;s no right or wrong way when it comes to coloring - it&#39;s purely for enjoyment and development at this age. So grab those crayons, pull up a chair next to your little one and simply enjoy the moment together. Watching them color brings back such simple joys from our own childhoods, doesn&#39;t it? The pictures may be in black and white, but the memories you make will be forever in vibrant color.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/colouring pictures for preschoolers_1.jpg" target="_blank">
+                <img src="/images/colouring pictures for preschoolers_1.jpg" alt="colouring pictures for preschoolers" title="colouring pictures for preschoolers" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/colouring pictures for preschoolers_2.jpg" target="_blank">
+                <img src="/images/colouring pictures for preschoolers_2.jpg" alt="colouring pictures for preschoolers" title="colouring pictures for preschoolers" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/colouring pictures for preschoolers_3.jpg" target="_blank">
+                <img src="/images/colouring pictures for preschoolers_3.jpg" alt="colouring pictures for preschoolers" title="colouring pictures for preschoolers" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/colouring pictures for preschoolers_4.jpg" target="_blank">
+                <img src="/images/colouring pictures for preschoolers_4.jpg" alt="colouring pictures for preschoolers" title="colouring pictures for preschoolers" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/colouring pictures for preschoolers_5.jpg" target="_blank">
+                <img src="/images/colouring pictures for preschoolers_5.jpg" alt="colouring pictures for preschoolers" title="colouring pictures for preschoolers" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/colouring pictures for preschoolers_6.jpg" target="_blank">
+                <img src="/images/colouring pictures for preschoolers_6.jpg" alt="colouring pictures for preschoolers" title="colouring pictures for preschoolers" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/colouring pictures for preschoolers_7.jpg" target="_blank">
+                <img src="/images/colouring pictures for preschoolers_7.jpg" alt="colouring pictures for preschoolers" title="colouring pictures for preschoolers" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/colouring pictures for preschoolers_8.jpg" target="_blank">
+                <img src="/images/colouring pictures for preschoolers_8.jpg" alt="colouring pictures for preschoolers" title="colouring pictures for preschoolers" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/colouring pictures for preschoolers_9.jpg" target="_blank">
+                <img src="/images/colouring pictures for preschoolers_9.jpg" alt="colouring pictures for preschoolers" title="colouring pictures for preschoolers" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

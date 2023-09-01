@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hey there colorer! Have you been looking for a fun doll drawing image to splash some color onto? Well little friend, you&#39;re in luck. We&#39;ve got a bunch of different doll pictures just waiting for you to bring &#39;em to life with your crayons, markers, or colored pencils. What are you waiting for? Pick a doll and start getting creative!">
+  <meta name="keywords" content="doll, drawing, colouring, page, colouring pages, colouring book, colouring sheets, activity, worksheet, easy, simple, kids, children">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Color a Pretty Doll Drawing Coloring Page for Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Color a Pretty Doll Drawing Coloring Page for Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Doll drawing colouring pages are such a fun diversion for little ones. Who doesn&#39;t love colouring in cute outfits for dollies? The options are endless! You&#39;ve got your classic paper dolls with interchangeable clothes and accessories. Talk about hours of imaginative play without spending a penny, right? There are colouring pages featuring fashionable modern dolls as well as old-timey Victorian and gingham pinafore dollies. You can literally dress these dolls in any era you want. Got a budding fashion designer on your hands? There&#39;s no better way to unleash that creativity than letting them design unique ensembles for paper dolls. And don&#39;t forget doll hair! What hairstyle and hair colour will your little colourist choose today? How about whimsical colouring pages with magical dollies - fairies, mermaids and princess dolls! Fairy wings are so wonderfully fun to fill in with glitter gel pens. Your kid will likely want to colour those wings about five different colours before they&#39;re satisfied. Then there&#39;s castle homes and magic wands for princess dolls. It&#39;ll put a smile on any parent&#39;s face seeing their little one lost in a world of make-believe through simple doll colouring. I know for my own daughter, doll drawing colouring pages fed her imagination for hours. She&#39;d act out full stories with hiss, her dollies as the main characters. The saga might involve a school for magical dolls or a trip to Paris Fashion Week - whatever her excited little imagination dreamed up that day. Just remember to stock up on those crayons, kid! A doll colourist never runs out of inspiration. So give those doll drawing colouring pages a chance. I bet creating fun wardrobes and hairstyles for paper dolls will become an anticipated daily activity for your little one, and a welcome escape for you too!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_1.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_1.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_2.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_2.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_3.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_3.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_4.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_4.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_5.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_5.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_6.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_6.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_7.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_7.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_8.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_8.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_9.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_9.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_10.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_10.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_11.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_11.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_12.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_12.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/doll drawing colouring page_13.jpg" target="_blank">
+                <img src="/images/doll drawing colouring page_13.jpg" alt="doll drawing colouring page" title="doll drawing colouring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

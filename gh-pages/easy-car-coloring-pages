@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Got kids needing to keep those coloring pencils moving? We&#39;ve got tons of fun, simple car designs perfect for little drivers just learning their colors. Pages ready for them to fill with their own one-of-a-kind auto creations!">
+  <meta name="keywords" content="coloring pages, car coloring pages, easy car coloring pages, car coloring, car colouring pages, car colouring, vehicle coloring pages, vehicle colouring pages, very easy car coloring pages, easy car colouring pages">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Easy Fun Car Coloring Pages for Kids</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Easy Fun Car Coloring Pages for Kids</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there! Looking for simple car coloring pages for your kids? You&#39;ve come to the right place. We&#39;ve got tons of super simple car drawings perfect for little hands. The lines are wide and the shapes are basic so your kids can stay in the lines and color to their heart&#39;s content. No weird angles or tricky perspectives here - just straightforward outlines of wheels, doors, windshields and more. Think your kiddos can handle something a little more complex? We&#39;ve also got pages with multiple vehicles - race cars lined up at the starting grid, cars parked on a city street, even a few easy pickup truck drawings so your child can color their dream ride! The vehicles are separate enough that little colorists can pick their favorite to begin with. The best part? These car coloring sheets are incredibly forgiving. Scribbles outside the lines? Smudged crayon? No worries, just grab a new page and try again. There&#39;s no right or wrong way to color - the goal is simply for your kids to have fun creating while developing those fine motor and focus skills. So what are you waiting for? Grab some crayons, markers or colored pencils and let the car coloring chaos begin! Your kid&#39;s imagination is the only limit here. They can color a race car sparkly pink or a shiny red convertible - the possibilities are endless. And when they&#39;re done, they&#39;ll have a personalized car coloring page to hang on the fridge and admire their work. Easy, engaging car coloring pages - exactly what you were hoping to find, right? Dive in and enjoy the ride!</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/easy car coloring pages_1.jpg" target="_blank">
+                <img src="/images/easy car coloring pages_1.jpg" alt="easy car coloring pages" title="easy car coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/easy car coloring pages_2.jpg" target="_blank">
+                <img src="/images/easy car coloring pages_2.jpg" alt="easy car coloring pages" title="easy car coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/easy car coloring pages_3.jpg" target="_blank">
+                <img src="/images/easy car coloring pages_3.jpg" alt="easy car coloring pages" title="easy car coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/easy car coloring pages_4.jpg" target="_blank">
+                <img src="/images/easy car coloring pages_4.jpg" alt="easy car coloring pages" title="easy car coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/easy car coloring pages_5.jpg" target="_blank">
+                <img src="/images/easy car coloring pages_5.jpg" alt="easy car coloring pages" title="easy car coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/easy car coloring pages_6.jpg" target="_blank">
+                <img src="/images/easy car coloring pages_6.jpg" alt="easy car coloring pages" title="easy car coloring pages" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>

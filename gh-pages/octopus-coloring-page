@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Want your kid to color a really cool underwater creature? The octopus coloring pages here are perfect for little marine biologists and kids who love fun tentacle action. Highly detailed but not too tricky, these octopus designs will keep your artist entertained for hours.">
+  <meta name="keywords" content="octopus, coloring page, octopus coloring pages, coloring, octopus colouring page, octopus colouring pages, octopus pictures to colour, colour octopus, ocean animals, sea animals coloring pages, kids activities, cephalopod, kids coloring, kids colouring">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>Cool Octopus Coloring Page</title>
+</head>
+<body class="relative min-h-screen flex flex-col h-full">
+
+<header class="relative bg-blue-500 p-4 flex justify-between items-center shadow-lg">
+    <div class="logo-container absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-14">
+        <img src="/assets/logo.png" alt="Logo" class="w-64 h-64">
+    </div>
+
+    <div class="flex items-center justify-end w-full">
+        <nav>
+            <ul class="flex">
+                <li class="mr-6"><a href="/" class="text-white hover:text-blue-200">Home</a></li>   
+            </ul>
+        </nav>
+    </div>
+
+</header>
+
+<main class="flex-grow mt-20">
+  <div class="container mx-auto px-4 md:flex mt-4 justify-center">
+  
+    <div class="md:w-full text-center">
+      <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-2 text-blue-500">Cool Octopus Coloring Page</h2>
+      <p class="text-gray-700 text-sm sm:text-base my-custom-background">Hey there coloring fans! Are you looking for some super swell and totally radical octopus coloring fun? You&#39;ve come to the right place my friend. These outstanding octopus coloring page choices are so creative and imaginative, they&#39;ll have you thinking like an artsy Cephalopod in no time. With arms stretching off in all eight directions, the octopus is begging for bright vibrant colors and wild patterns. So grab your finest crayons and super sharp colored pencils because we&#39;ve got tons of spunky little octopi just waiting to have their suction cuppy bodies decorated in your own unique style. Whether you fancy traditional octopus colors like purples and blues or prefer zig zag patterns and polka dots galore, you&#39;ll find an octopus friend here that suits your underwater color story. Got little ones at home that need some peaceful creative time? These octopus coloring pages are perfect for keeping curious minds engaged while letting their imaginations flow free. Simple shapes and large areas make for stress-free fun even for the smallest artists in your pod. So what are you waiting for? Dive into these bodaciously brilliant octopus coloring pages and unleash your inner aquanaut! Let&#39;s drop the anchor, fire up the color cannons, and transform these playful pulpets into the most groovy glory of the deep. The colorful coral reef awaits! Hope you and your young artists have a blast creating with our groovy octopi coloring pals! Dive back in anytime.</p>
+        <div class="thumbnails max-w-full">
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_1.jpg" target="_blank">
+                <img src="/images/octopus coloring page_1.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_2.jpg" target="_blank">
+                <img src="/images/octopus coloring page_2.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_3.jpg" target="_blank">
+                <img src="/images/octopus coloring page_3.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_4.jpg" target="_blank">
+                <img src="/images/octopus coloring page_4.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_5.jpg" target="_blank">
+                <img src="/images/octopus coloring page_5.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_6.jpg" target="_blank">
+                <img src="/images/octopus coloring page_6.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_7.jpg" target="_blank">
+                <img src="/images/octopus coloring page_7.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_8.jpg" target="_blank">
+                <img src="/images/octopus coloring page_8.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_9.jpg" target="_blank">
+                <img src="/images/octopus coloring page_9.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_10.jpg" target="_blank">
+                <img src="/images/octopus coloring page_10.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_11.jpg" target="_blank">
+                <img src="/images/octopus coloring page_11.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_12.jpg" target="_blank">
+                <img src="/images/octopus coloring page_12.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_13.jpg" target="_blank">
+                <img src="/images/octopus coloring page_13.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_14.jpg" target="_blank">
+                <img src="/images/octopus coloring page_14.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_15.jpg" target="_blank">
+                <img src="/images/octopus coloring page_15.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+            <div class="thumbnail">
+                <a href="/images/octopus coloring page_16.jpg" target="_blank">
+                <img src="/images/octopus coloring page_16.jpg" alt="octopus coloring page" title="octopus coloring page" class="thumbnail-image bordered-image">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="bg-gray-200 p-4 text-center mt-4">
+  <nav>
+    <ul class="flex justify-center text-sm sm:text-base">
+      <li class="mr-6"><a href="/about_us/index.html" class="text-gray-700 hover:text-blue-500">About Us</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>
